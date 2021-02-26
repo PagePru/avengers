@@ -1,3 +1,4 @@
 # Misiones
 
-* Orar  mas y mas
+* Investigar al Dr. Doom.
+* Capturar a Red Skull
